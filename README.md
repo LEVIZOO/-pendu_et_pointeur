@@ -1,2 +1,2 @@
 # -pendu_et_pointeur
-jeux pendu avec les mini exo permettant de le faire pas a pas
+ceux dossier est  une fiche d'exercice permettant de faire le jeux le pendu  pas a pas niveau debutant
